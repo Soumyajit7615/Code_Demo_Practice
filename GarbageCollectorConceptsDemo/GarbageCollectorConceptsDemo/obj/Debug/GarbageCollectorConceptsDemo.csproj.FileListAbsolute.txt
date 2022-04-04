@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\bin\Debug\GarbageCollectorConceptsDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\bin\Debug\GarbageCollectorConceptsDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\bin\Debug\GarbageCollectorConceptsDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\obj\Debug\GarbageCollectorConceptsDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\obj\Debug\GarbageCollectorConceptsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\obj\Debug\GarbageCollectorConceptsDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADM21DF010\GarbageCollectorConceptsDemo\GarbageCollectorConceptsDemo\obj\Debug\GarbageCollectorConceptsDemo.pdb
