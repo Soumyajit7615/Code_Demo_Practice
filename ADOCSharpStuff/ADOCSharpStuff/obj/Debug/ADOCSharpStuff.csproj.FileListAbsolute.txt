@@ -1,0 +1,15 @@
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.pdb
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.exe
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.pdb
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe.config
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.pdb
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csproj.AssemblyReference.cache
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csproj.SuggestedBindingRedirects.cache
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csproj.CoreCompileInputs.cache
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.exe
+C:\Users\soumyajit das\myfile\cognizant_study_material\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.pdb
